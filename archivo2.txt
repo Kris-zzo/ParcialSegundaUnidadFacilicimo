@@ -10,4 +10,10 @@ de como se crea la medicina y que es lo que contiene y como es que puede llegar 
 personas realmento pienso que es una muy buena carrera y por lo que he leido es muy bonita. 
 
 ¿Que es HTML?
-
+es el lenguaje con el que se define el contenido de las paginas web.
+Basicamente se trata de un conjunto de etiquetas que sirven para definir 
+el texto y otros elementos que comprondran una pagina web, como imagenes,
+listas, videos, etc.
+Es un lengaje de marccaion de elementos para la cracion de documentos 
+hipertexto, muy facil de aprender, lo que permite que cualquier person,
+aunque no haya programado en la vida, pueda enfrengtarse a la tarea de crear una web.
